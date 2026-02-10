@@ -199,7 +199,9 @@ LLMs can:
 **Examples:** GPT-3, GPT-4, BERT, PaLM
 
 ## 7. Architecture of Large Language Models
- ![download (1)](https://github.com/user-attachments/assets/9a9f4d67-577c-4c50-974a-96fe5e94ca6a)
+
+<img width="1520" height="883" alt="{34992DCE-A3E7-4726-8869-88CA6D8A5B5E}" src="https://github.com/user-attachments/assets/c0f4c0ec-dede-4b4b-b6c2-9d758bb98c74" />
+
 
 **7.1 Transformer Architecture**
 
