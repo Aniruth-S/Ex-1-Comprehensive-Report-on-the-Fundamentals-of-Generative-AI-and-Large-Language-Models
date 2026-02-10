@@ -199,6 +199,7 @@ LLMs can:
 **Examples:** GPT-3, GPT-4, BERT, PaLM
 
 ## 7. Architecture of Large Language Models
+ ![download (1)](https://github.com/user-attachments/assets/9a9f4d67-577c-4c50-974a-96fe5e94ca6a)
 
 **7.1 Transformer Architecture**
 
@@ -314,6 +315,9 @@ Increased use in education and healthcare
 
 ## 13. Evolution of AI – Timeline Chart
 The following chart traces the journey from early logic to modern generative power:
+
+![download](https://github.com/user-attachments/assets/09c0f246-e102-4357-ae5a-2ecc46445710)
+
 
 1950: Alan Turing proposes the "Turing Test."
 
